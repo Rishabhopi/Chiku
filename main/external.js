@@ -96,7 +96,7 @@ document.getElementById('overlay').addEventListener('click', function() {
 });
 
 var typed = new Typed('#elementTwo', {
-    strings: ['CHIKU....', 'Im A AI Chat Bot', 'Made By @MuraliBotz'],
+    strings: ['CHIKU....', 'Im A AI Chat Bot', 'Made By @Ur_rishu_143'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
