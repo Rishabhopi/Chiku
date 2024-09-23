@@ -4,17 +4,17 @@ let previousBotMessage = "";
 
 
 const customResponses = {
-    "murali": [
+    "rishu": [
         "He is my owner! 😊",
-        "My developer is Murali! 🌟",
+        "My developer is Rishu! 🌟",
         "He created me! 🛠️"
     ],
-    "murli": [
-        "My developer is Murali!",
+    "rishu": [
+        "My developer is Rishu!",
         "He’s the genius behind me!"
     ],
     "who is your developer": [
-        "My developer is Murali. His username is @itzNotCoder on Telegram! 📲",
+        "My developer is Murali. His username is @Rishu1286 on Telegram! 📲",
         "Murali is the one who made me! 🛠️"
     ],
     "what's your name": [
@@ -61,7 +61,7 @@ const customResponses = {
     ],
     
     "Developer ": [
-    "i was made by @MuraliBotz",
+    "i was made by @Ur_rishu_143",
     "Murali is My Master",
     ],
     
